@@ -1,6 +1,7 @@
-***curso basico de phyton***
+# curso básico de phyton 
 
-***requisitos**
--phyton 3,6 o superior
--computadora con windows, linux o mac
--editor de texto 
+[Visual Studio Code](https://code.visualstudio.com/download)
+
+-------------------------------------------------------------------
+
+![Logo de phyton](Imagenes/phyton.png)
